@@ -65,7 +65,7 @@ repeat{
 }while r1 < 20
 
 
-//switch
+//switch,支持元祖,,
 var t1 = 5
 switch t1 {
 case 1:
